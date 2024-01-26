@@ -1,8 +1,8 @@
 {
   "name": "proyectogithub",
   "version": "1.0.0",
-  "description": "",
-  "main": "indes.js",
+  "description": "este es un proyecto de git",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
